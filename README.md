@@ -1,3 +1,5 @@
+Frozen version of Alpa (https://github.com/alpa-projects/alpa) referenced in DOC story generation repo (https://github.com/yangkevin2/doc-story-generation)
+
 <div align="center">
 <img src="https://github.com/alpa-projects/alpa/blob/main/docs/logo/alpa-logo-cropped.png" alt="logo" width="250"></img>
 <br></br>
